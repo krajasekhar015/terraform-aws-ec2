@@ -1,4 +1,4 @@
-# Terraform AWS EC
+# Terraform AWS EC2
 
 ## Arguments
 ami_id - (Mandatory), User must provide AMI ID. This is in String format
